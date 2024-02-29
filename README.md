@@ -11,10 +11,15 @@ sul sicuro!
 
 
 - Accedere ad Amazon
-    -  SE PC spento
-        - accendere il Pc
-    - aprire il browser
-    - collegarsi al sito amazon.it
+    - SE scelgo il PC 
+        -  SE PC spento
+            - accendere il Pc
+        - ALRIMENTI 
+            - aprire il browser
+            - collegarsi al sito amazon.it
+    - ALTRIMENTI 
+        - prendo il telefono
+        - apro l'app di amazon
 - scegliere il regalo
     - cercare lampada che le piace tanto
     - SE consegna Prime E rientra nel budget
@@ -29,14 +34,18 @@ sul sicuro!
                     - aggiungi al carrello
 - ordinare il regalo
     - vai al carrello
-    - procedi all'acquisto
+    - SE ho soldi sulla carta
+        - procedi all'acquisto        
+    - ALTRIMENTI 
+        - ricarica la carta 
+        - torna al carrello
     - inserisci dati di domicilio
     - inserisci dati di pagamento
     - clicca su paga
-    - SE pagamento andato a buon fine
-        - attendi e-mail di conferma
-    - ALTRIMENTI
-        - riprova il pagamento
+        - SE pagamento andato a buon fine
+            - attendi e-mail di conferma
+        - ALTRIMENTI
+            - riprova il pagamento
 - Spegnere il Pc
 - aspetta comodamente sul divano
     - ricordati che la prossima volta ci devi pensare prima
